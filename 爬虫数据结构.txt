@@ -1,0 +1,13 @@
+# 导入模块
+import requests
+
+# 创建def
+def 函数名（）：
+    # 四个空格  
+
+    # 保存到本地（数据持久化）
+    with open("文件名.文件格式（py\html\txt等等）", "w", encoding="utf-8") as f:
+        f.write(需要打印的内容)
+
+主函数（）
+
